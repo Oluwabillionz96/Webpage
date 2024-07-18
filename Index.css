@@ -1,0 +1,118 @@
+body{
+  margin:0px;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+img{
+  border-radius:50%;
+  height:100px;
+  width:100px;
+  object-fit:cover;
+}
+
+.icons{
+   height:100px;
+    width:100px;
+   object-fit:cover;
+   border-radius:0%;
+}
+
+.contact{
+  Height:30px;
+  width:30px;
+  object-fit:cover;
+}
+
+.container{
+  padding-top:50px;
+  background-color:#D4F9EA;
+  color:white;
+}
+
+.MyName{
+    font-family: "Sacramento", cursive;
+    font-size:3.125rem;
+    margin:25px auto 0 auto;
+    color: #66BFBF;
+}
+h2{
+  font-family: "Montserrat", sans-serif;
+  color  : #66BFBF
+}
+
+h3{
+  font-family: "Montserrat", sans-serif;
+  color:#11999E;
+}
+span{
+  display:inlblock;
+}
+a{
+  color:#11999E;
+  margin:5px 10px;
+}
+a:hover{
+  height:45px;
+  width:45px;
+}
+
+.Developer{
+font-size:1.25rem;
+font-weight:normal;
+}
+
+hr{
+  border:dotted #EAF6F6 6px;
+  border-bottom:none;
+  width:5%;
+  margin:50px auto;
+}
+
+.contact-me{
+  width:60%;
+  margin:20px auto 30px auto;
+}
+
+.btn {
+  background: #11Cdd4;
+  background-image: -webkit-linear-gradient(top, #11Cdd4, #119998);
+  background-image: -moz-linear-gradient(top, #11Cdd4, #119998);
+  background-image: -ms-linear-gradient(top, #11Cdd4, #119998);
+  background-image: -o-linear-gradient(top, #11Cdd4, #119998);
+  background-image: linear-gradient(to bottom, #11Cdd4, #119998);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: "Montserrat",sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.contact-link{
+  display:inline-block;
+  margin-bottom:20px;
+}
+
+.third-container{
+  background-color:#66BFBF;
+  padding: 50px 0  20px;
+}
+
+.copyright{
+  color:#EAF6F6;
+  font-size:0.75rem;
+  padding:10px 0;
+}
